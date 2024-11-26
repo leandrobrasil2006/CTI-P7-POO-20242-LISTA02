@@ -29,81 +29,32 @@ Cole o código copiado no arquivo da classe Principal que você criou no passo a
 Após colar o código, clique com o botão direito na classe Principal e selecione Run As > Java Application para executar o programa e visualizar o resultado.
 
 Exercícios Resolvidos
-EXE01 - Média Ponderada e Conceito
-Link para o código EXE01
-https://github.com/leandrobrasil2006/CTI-P7-POO-20242-LISTA02/tree/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE01
-
-EXE02 - Média Aritmética e Situação
-Link para o código EXE02
-
-EXE03 - Maior de Dois Números
-Link para o código EXE03
-
-EXE04 - Ordem Crescente
-Link para o código EXE04
-
-EXE05 - Ordem Decrescente
-Link para o código EXE05
-
-EXE06 - Par ou Impar
-Link para o código EXE06
-
-EXE07 - Ordenação de Números
-Link para o código EXE07
-
-EXE08 - Menu de Operações
-Link para o código EXE08
-
-EXE09 - Data e Hora
-Link para o código EXE09
-
-EXE10 - Maior Dados
-Link para o código EXE10
-
-EXE11 - Duração do Jogo
-Link para o código EXE11
-
-EXE12 - Carga e Aumento
-Link para o código EXE12
-
-EXE13 - Menu de Salário
-Link para o código EXE13
-
-EXE14 - Salário com Bonificação
-Link para o código EXE14
-
-EXE15 - Cálculo de Salário
-Link para o código EXE15
-
-EXE16 - Ajuste de Preços
-Link para o código EXE16
-
-EXE17 - Equação do 2º Grau
-Link para o código EXE17
-
-EXE18 - Tipos de Triângulos
-Link para o código EXE18
-
-EXE19 - Classificação de Peso e Altura
-Link para o código EXE19
-
-EXE20 - Cálculo de Impostos
-Link para o código EXE20
-
-EXE21 - Cálculo de Carga e Imposto
-Link para o código EXE21
-
-EXE22 - Cálculo de Desconto
-Link para o código EXE22
-
-EXE23 - Conversão de Temperatura
-Link para o código EXE23
-
-EXE24 - Cálculo de Fatorial
-Link para o código EXE24
-
-EXE25 - Arcos Notáveis
-Link para o código EXE25
+Exercícios Resolvidos
+Exercício Resolvido 01 - Média Ponderada e Conceito
+Exercício Resolvido 02 - Média Aritmética e Situação
+Exercício Resolvido 03 - Maior de Dois Números
+Exercício Resolvido 04 - Ordem Crescente
+Exercício Resolvido 05 - Ordem Decrescente
+Exercício Resolvido 06 - Par ou Impar
+Exercício Resolvido 07 - Ordenação de Números
+Exercício Resolvido 08 - Menu de Operações
+Exercício Resolvido 09 - Data e Hora
+Exercício Resolvido 10 - Maior Dados
+Exercício Resolvido 11 - Duração do Jogo
+Exercício Resolvido 12 - Carga e Aumento
+Exercício Resolvido 13 - Menu de Salário
+Exercício Resolvido 14 - Salário com Bonificação
+Exercício Resolvido 15 - Cálculo de Salário
+Exercício Resolvido 16 - Ajuste de Preços
+Exercício Resolvido 17 - Equação do 2º Grau
+Exercício Resolvido 18 - Tipos de Triângulos
+Exercício Resolvido 19 - Classificação de Peso e Altura
+Exercício Resolvido 20 - Cálculo de Impostos
+Exercício Resolvido 21 - Cálculo de Carga e Imposto
+Exercício Resolvido 22 - Cálculo de Desconto
+Exercício Resolvido 23 - Conversão de Temperatura
+Exercício Resolvido 24 - Cálculo de Fatorial
+Exercício Resolvido 25 - Arcos Notáveis
 
 Exercícios Resolvidos - Capítulo 5
 EXE01 - Aumento Salarial
