@@ -1,6 +1,6 @@
 # README - Exercícios de Programação (CTI P7 - POO 20242)
 
-Este repositório contém a implementação de uma série de exercícios de programação em Python, organizados por capítulo e exercício. Abaixo, você encontrará os links para acessar o código de cada exercício do **Capítulo 5**.
+Este repositório contém a implementação de uma série de exercícios de programação em Java, organizados por capítulo e exercício. Abaixo, você encontrará os links para acessar o código de cada exercício do **Capítulo 5**.
 
 
 ## Exercícios Resolvidos - Capítulo 5
