@@ -30,7 +30,8 @@ Após colar o código, clique com o botão direito na classe Principal e selecio
 
 Exercícios Resolvidos
 EXE01 - Média Ponderada e Conceito
-[Link para o código EXE01]
+Link para o código EXE01
+https://github.com/leandrobrasil2006/CTI-P7-POO-20242-LISTA02/tree/main/CAP04/EXERCICIOS-RESOLVIDOS/EXE01
 
 EXE02 - Média Aritmética e Situação
 Link para o código EXE02
