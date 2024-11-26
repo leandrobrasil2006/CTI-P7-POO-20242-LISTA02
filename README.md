@@ -30,7 +30,7 @@ Após colar o código, clique com o botão direito na classe Principal e selecio
 
 Exercícios Resolvidos
 EXE01 - Média Ponderada e Conceito
-Link para o código EXE01
+[Link para o código EXE01]
 
 EXE02 - Média Aritmética e Situação
 Link para o código EXE02
